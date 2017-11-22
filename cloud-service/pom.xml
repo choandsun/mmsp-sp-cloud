@@ -46,9 +46,9 @@
         </dependency>
 
         <!--boot应用状态 可以配合 cloud的健康检查使用-->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-cloud-starter-actuator</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.springframework.boot</groupId>-->
+            <!--<artifactId>spring-cloud-starter-actuator</artifactId>-->
+        <!--</dependency>-->
     </dependencies>
 </project>
